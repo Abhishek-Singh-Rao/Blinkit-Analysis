@@ -1,4 +1,5 @@
 📊 **Blinkit Sales Performance Analysis Project**
+
 Welcome to the Blinkit Sales Performance Analysis project! This repository contains a comprehensive analysis of Blinkit's sales data to provide key insights for optimizing inventory, enhancing customer satisfaction, and improving overall business performance. Explore the findings and visualizations below! 🚀
 
 ---
